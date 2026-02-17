@@ -192,7 +192,7 @@ end
 
 for _, v in pairs(ui:GetDescendants()) do
     if v:IsA("TextLabel") or v:IsA("TextButton") or v:IsA("TextBox") then
-        v.Text = "Team C00lkid!"
+        v.Text = "Team C00lkidd!"
         v.TextColor3 = Color3.fromRGB(255, 100, 100)
     end
     
