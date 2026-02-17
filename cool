@@ -110,7 +110,7 @@ local function tp(po)
 			changeAtmosphere()
 			spawn(function() while true do wait(0.5) changeAtmosphere() end end)
 			local h = Instance.new("Hint",p.PlayerGui)
-			while true do wait(0.3) h.Text = "Team c00lkid Join today!" end
+			while true do wait(0.3) h.Text = "Team c00lkidd Join today!" end
 		end
 	end)
 end
